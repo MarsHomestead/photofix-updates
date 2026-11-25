@@ -8,3 +8,5 @@ Public update notes for the PhotoFix listing-photo bot. Each PhotoFix copy can c
 - No personal information, passwords, account details or private data is ever sent or received.
 - An update never asks for personal information, logins or account access. If one ever did, your PhotoFix would ignore it and tell you.
 - Everything happens only after your yes.
+
+`client/hive` is the bot's opt-in helper. It starts off. When a week's share is ready, the bot shows its owner exactly what would be sent, and sends it only after the owner says yes. Names, handles, emails, links, and numbers are removed first.
