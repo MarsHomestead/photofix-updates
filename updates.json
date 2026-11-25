@@ -1,0 +1,13 @@
+{
+  "bot": "PhotoFix",
+  "latest": "1.0",
+  "updates": [
+    {
+      "version": "1.0",
+      "date": "2026-11-19",
+      "title": "Update channel started",
+      "summary": "PhotoFix copies can now check this page weekly for improvements, and add them only when their owner says yes.",
+      "changes": []
+    }
+  ]
+}
